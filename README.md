@@ -1,10 +1,11 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=326CE5&center=true&vCenter=true&width=650&lines=Senior+DevOps+Engineer+%7C+10%2B+Years;CNCF+Kubestronaut+%F0%9F%9A%80;Kubernetes+%7C+AWS+%7C+Terraform+%7C+Ansible;DevSecOps+%7C+Platform+Engineering" alt="Typing SVG" />
+# 👋 Hi, I'm Prathamesh More
+
+**Senior DevOps Engineer | 10+ Years** · **CNCF Kubestronaut** 🚀
+Kubernetes · AWS · Terraform · Ansible · DevSecOps · Platform Engineering
 
 </div>
-
-### 👋 Hi, I'm Prathamesh More
 
 Senior DevOps Engineer with 10+ years engineering and operating enterprise-scale
 CI/CD platforms, Kubernetes environments, and cloud infrastructure. Deep expertise
@@ -107,25 +108,31 @@ with root cause and fix.
 
 🎥 Full walkthrough on [SquareKubeLab](https://www.youtube.com/@SquareKubeLab) — coming soon.
 
----
-
-## 📊 GitHub Stats
-
 <!--
-  The main stats + top-languages cards (github-readme-stats.vercel.app) are
-  removed for now — that public instance is currently down (DEPLOYMENT_PAUSED,
-  confirmed repeatedly, not just a transient blip). Once you deploy your own
-  instance (vercel.com/new/clone?repository-url=https://github.com/anuraghazra/github-readme-stats),
-  add these two lines back with your own domain substituted:
+  GitHub Stats section intentionally omitted for now. Two separate public badge
+  services were tried and dropped here, in order:
+    1. github-readme-stats.vercel.app (main stats + top-langs cards) — the
+       public instance itself was down (DEPLOYMENT_PAUSED), confirmed
+       repeatedly, not transient.
+    2. streak-stats.demolab.com (streak card) — origin is healthy when hit
+       directly, but GitHub's own image proxy (camo.githubusercontent.com)
+       fails to fetch it, most likely because Cloudflare bot-protection in
+       front of that origin blocks camo's proxy requests specifically. This
+       is a known class of issue with these free community-run instances.
 
+  Fix: deploy your own instance of github-readme-stats
+  (vercel.com/new/clone?repository-url=https://github.com/anuraghazra/github-readme-stats),
+  which also has a built-in streak-stats-equivalent, or self-host
+  DenverCoder1/github-readme-streak-stats separately. A self-hosted instance
+  on your own Vercel domain won't hit either failure mode above. Once
+  deployed, add cards back here, e.g.:
+
+  ## 📊 GitHub Stats
+  <div align="center">
   <img src="https://<your-instance>.vercel.app/api?username=devopsprathamesh&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
   <img src="https://<your-instance>.vercel.app/api/top-langs/?username=devopsprathamesh&layout=compact&hide_border=true" alt="Top Languages" height="165" />
+  </div>
 -->
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=devopsprathamesh&hide_border=true" alt="GitHub Streak" />
-
-</div>
 
 ---
 
