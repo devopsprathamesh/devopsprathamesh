@@ -111,17 +111,16 @@ with root cause and fix.
 ## 📊 GitHub Stats
 
 <!--
-  TODO: replace "github-readme-stats.vercel.app" below with your own deployed
-  instance's domain once you've deployed it (see setup notes handed off
-  separately) — the public instance is rate-limited/shared across every GitHub
-  profile that uses it and goes down periodically. Only the two URLs below need
-  the domain swap; streak-stats.demolab.com is a separate, independently
-  maintained service and doesn't need changing.
+  The main stats + top-languages cards (github-readme-stats.vercel.app) are
+  removed for now — that public instance is currently down (DEPLOYMENT_PAUSED,
+  confirmed repeatedly, not just a transient blip). Once you deploy your own
+  instance (vercel.com/new/clone?repository-url=https://github.com/anuraghazra/github-readme-stats),
+  add these two lines back with your own domain substituted:
+
+  <img src="https://<your-instance>.vercel.app/api?username=devopsprathamesh&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://<your-instance>.vercel.app/api/top-langs/?username=devopsprathamesh&layout=compact&hide_border=true" alt="Top Languages" height="165" />
 -->
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=devopsprathamesh&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devopsprathamesh&layout=compact&hide_border=true" alt="Top Languages" height="165" />
 
 <img src="https://streak-stats.demolab.com/?user=devopsprathamesh&hide_border=true" alt="GitHub Streak" />
 
