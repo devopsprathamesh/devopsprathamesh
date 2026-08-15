@@ -15,12 +15,13 @@ optimisation.
 
 - 🔭 Currently a **Senior DevOps Engineer at Siemens Digital Industries Software**, Pune — owning enterprise CI/CD platform availability, security, and operational stability
 - 🌱 Building and documenting a fully automated **Vagrant + kubeadm + Ansible Kubernetes homelab** — see pinned repo below
-- 🎥 Putting together a YouTube walkthrough of that homelab setup — stay tuned
+- 🎥 Building out [SquareKubeLab](https://www.youtube.com/@SquareKubeLab) on YouTube — walkthroughs of that homelab setup and DevOps/Kubernetes deep dives
 - 📍 Mumbai, India
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-prathammore-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathammore/)
+[![YouTube](https://img.shields.io/badge/YouTube-SquareKubeLab-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@SquareKubeLab)
 [![Email](https://img.shields.io/badge/Email-devopspratham0707%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:devopspratham0707@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-devopsprathamesh-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/devopsprathamesh)
 
@@ -104,7 +105,7 @@ machine you're running it on — live-tested end to end, including a genuine
 from-scratch `git clone` run, with every real failure hit along the way documented
 with root cause and fix.
 
-🎥 Full YouTube walkthrough coming soon.
+🎥 Full walkthrough on [SquareKubeLab](https://www.youtube.com/@SquareKubeLab) — coming soon.
 
 ---
 
@@ -130,7 +131,8 @@ with root cause and fix.
 
 <div align="center">
 
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/prathammore/) or
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/prathammore/), subscribe on
+[YouTube](https://www.youtube.com/@SquareKubeLab), or
 [devopspratham0707@gmail.com](mailto:devopspratham0707@gmail.com)
 
 </div>
