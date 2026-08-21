@@ -6,13 +6,13 @@
 
 **I help teams run secure, cost-optimized Kubernetes on AWS — without compromising security for savings.**
 
-📩 **Have a Kubernetes, EKS cost, or CI/CD problem?** [devopspratham0707@gmail.com](mailto:devopspratham0707@gmail.com)
+📩 **Have a Kubernetes, EKS cost, or CI/CD problem?** [squarekubelab@gmail.com](mailto:squarekubelab@gmail.com)
 
 </div>
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-devopspratham0707%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:devopspratham0707@gmail.com)
+[![Email](https://img.shields.io/badge/Email-devopspratham0707%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:squarekubelab@gmail.com)
 [![Website](https://img.shields.io/badge/Website-squarekube.com-0A0A0A?style=flat-square&logo=googlechrome&logoColor=white)](https://squarekube.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-prathammore-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathammore/)
 [![YouTube](https://img.shields.io/badge/YouTube-SquareKubeLab-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@SquareKubeLab)
@@ -29,7 +29,7 @@ actually matters.
 
 - 🌱 Building and documenting a fully automated **Vagrant + kubeadm + Ansible Kubernetes homelab** — see featured project below
 - 🎥 Publishing hands-on Kubernetes and DevOps walkthroughs on [SquareKubeLab](https://www.youtube.com/@SquareKubeLab)
-- 📍 Mumbai, India
+- 📍 Pune, India
 
 ---
 
@@ -37,7 +37,7 @@ actually matters.
 
 I take on focused, scoped engagements for teams that need Kubernetes and CI/CD done
 right — not a headcount, a fixed-scope fix. If any of these sound like your problem,
-[email me](mailto:devopspratham0707@gmail.com).
+[email me](mailto:squarekubelab@gmail.com).
 
 ### 1. Kubernetes Security & Cost Audit
 A **Kubernetes security audit** and cost review of your cluster — RBAC, Kyverno
@@ -54,7 +54,7 @@ Wiring **supply chain security** into your pipeline as a **DevSecOps consultant*
 Trivy/Snyk scanning in CI, SBOM generation, Cosign image signing, and Kyverno
 admission enforcement so untrusted images can't reach the cluster.
 
-📩 **Start a conversation:** [devopspratham0707@gmail.com](mailto:devopspratham0707@gmail.com)
+📩 **Start a conversation:** [squarekubelab@gmail.com](mailto:squarekubelab@gmail.com)
 
 ---
 
@@ -149,6 +149,6 @@ with root cause and fix.
 
 Reach me on [LinkedIn](https://www.linkedin.com/in/prathammore/), subscribe on
 [YouTube](https://www.youtube.com/@SquareKubeLab), visit [squarekube.com](https://squarekube.com),
-or email **[devopspratham0707@gmail.com](mailto:devopspratham0707@gmail.com)**
+or email **[squarekubelab@gmail.com](mailto:squarekubelab@gmail.com)**
 
 </div>

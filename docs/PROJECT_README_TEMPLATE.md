@@ -68,7 +68,7 @@ cd [repo-name]
 
 Part of [Prathamesh More](https://github.com/devopsprathamesh)'s Kubernetes/DevOps
 portfolio · Need help with Kubernetes security, EKS cost, or CI/CD? →
-**[devopspratham0707@gmail.com](mailto:devopspratham0707@gmail.com)** ·
+**[squarekubelab@gmail.com](mailto:squarekubelab@gmail.com)** ·
 [squarekube.com](https://squarekube.com)
 
 </div>
