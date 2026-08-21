@@ -1,32 +1,60 @@
 <div align="center">
 
-# 👋 Hi, I'm Prathamesh More
+# Prathamesh More
 
-**Senior DevOps Engineer | 10+ Years** · **CNCF Kubestronaut** 🚀
-Kubernetes · AWS · Terraform · Ansible · DevSecOps · Platform Engineering
+### Kubernetes Consultant & DevOps Freelancer — Senior Platform Engineer, 10+ Years
+
+**I help teams run secure, cost-optimized Kubernetes on AWS — without compromising security for savings.**
+
+📩 **Have a Kubernetes, EKS cost, or CI/CD problem?** [devopspratham0707@gmail.com](mailto:devopspratham0707@gmail.com)
 
 </div>
-
-Senior DevOps Engineer with 10+ years engineering and operating enterprise-scale
-CI/CD platforms, Kubernetes environments, and cloud infrastructure. Deep expertise
-in Jenkins, GitLab, Terraform, EKS, Kubernetes security, automation, access
-governance, and platform upgrades — with a track record of improving reliability,
-deployment efficiency, operational resilience, incident response, and cloud cost
-optimisation.
-
-- 🔭 Currently a **Senior DevOps Engineer at Siemens Digital Industries Software**, Pune — owning enterprise CI/CD platform availability, security, and operational stability
-- 🌱 Building and documenting a fully automated **Vagrant + kubeadm + Ansible Kubernetes homelab** — see pinned repo below
-- 🎥 Building out [SquareKubeLab](https://www.youtube.com/@SquareKubeLab) on YouTube — walkthroughs of that homelab setup and DevOps/Kubernetes deep dives
-- 📍 Mumbai, India
 
 <div align="center">
 
+[![Email](https://img.shields.io/badge/Email-devopspratham0707%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:devopspratham0707@gmail.com)
+[![Website](https://img.shields.io/badge/Website-squarekube.com-0A0A0A?style=flat-square&logo=googlechrome&logoColor=white)](https://squarekube.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-prathammore-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathammore/)
 [![YouTube](https://img.shields.io/badge/YouTube-SquareKubeLab-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@SquareKubeLab)
-[![Email](https://img.shields.io/badge/Email-devopspratham0707%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:devopspratham0707@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-devopsprathamesh-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/devopsprathamesh)
 
 </div>
+
+Senior DevOps / Platform Engineer with 10+ years running Kubernetes, CI/CD platforms,
+and cloud infrastructure in production. I work as a **Kubernetes consultant and DevOps
+freelancer** for teams that need a **Kubernetes security audit**, **EKS cost
+optimization**, or a **CI/CD platform engineer** to fix a fragile pipeline — the kind
+of work where getting RBAC, admission control, and cost right at the same time
+actually matters.
+
+- 🌱 Building and documenting a fully automated **Vagrant + kubeadm + Ansible Kubernetes homelab** — see featured project below
+- 🎥 Publishing hands-on Kubernetes and DevOps walkthroughs on [SquareKubeLab](https://www.youtube.com/@SquareKubeLab)
+- 📍 Mumbai, India
+
+---
+
+## 💼 Work With Me
+
+I take on focused, scoped engagements for teams that need Kubernetes and CI/CD done
+right — not a headcount, a fixed-scope fix. If any of these sound like your problem,
+[email me](mailto:devopspratham0707@gmail.com).
+
+### 1. Kubernetes Security & Cost Audit
+A **Kubernetes security audit** and cost review of your cluster — RBAC, Kyverno
+policies, image and supply-chain security, right-sizing, and **Karpenter** readiness —
+delivered as a scored report with a concrete fix plan, not a slide deck.
+
+### 2. CI/CD Platform Engineering
+Hands-on **CI/CD platform engineer** work: Jenkins with JCasC (config-as-code),
+GitLab upgrades planned with real rollback readiness, and GitOps migrations to Argo CD
+for teams moving off manual deploys.
+
+### 3. Supply-Chain Security Setup
+Wiring **supply chain security** into your pipeline as a **DevSecOps consultant**:
+Trivy/Snyk scanning in CI, SBOM generation, Cosign image signing, and Kyverno
+admission enforcement so untrusted images can't reach the cluster.
+
+📩 **Start a conversation:** [devopspratham0707@gmail.com](mailto:devopspratham0707@gmail.com)
 
 ---
 
@@ -34,24 +62,19 @@ optimisation.
 
 **☸️ CNCF Kubestronaut** — holder of all five Kubernetes/Cloud Native certifications:
 
-![CKA](https://img.shields.io/badge/CKA-Certified_Kubernetes_Administrator-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![CKAD](https://img.shields.io/badge/CKAD-Certified_Kubernetes_App_Developer-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![CKS](https://img.shields.io/badge/CKS-Certified_Kubernetes_Security_Specialist-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![KCNA](https://img.shields.io/badge/KCNA-Kubernetes_%26_Cloud_Native_Associate-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![KCSA](https://img.shields.io/badge/KCSA-Kubernetes_%26_Cloud_Native_Security_Associate-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+[![CKA](https://img.shields.io/badge/CKA-Certified_Kubernetes_Administrator-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://www.credly.com/badges/TODO-CKA)
+[![CKAD](https://img.shields.io/badge/CKAD-Certified_Kubernetes_App_Developer-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://www.credly.com/badges/TODO-CKAD)
+[![CKS](https://img.shields.io/badge/CKS-Certified_Kubernetes_Security_Specialist-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://www.credly.com/badges/TODO-CKS)
+[![KCNA](https://img.shields.io/badge/KCNA-Kubernetes_%26_Cloud_Native_Associate-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://www.credly.com/badges/TODO-KCNA)
+[![KCSA](https://img.shields.io/badge/KCSA-Kubernetes_%26_Cloud_Native_Security_Associate-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://www.credly.com/badges/TODO-KCSA)
 
-**☁️ Cloud & Infrastructure**
+<!-- TODO: replace each TODO-* badge link above with your real Credly verification URL -->
 
-![AWS Developer Associate](https://img.shields.io/badge/AWS-Developer_Associate-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![AWS Solutions Architect Associate](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Terraform Associate](https://img.shields.io/badge/Terraform-Associate-844FBA?style=flat-square&logo=terraform&logoColor=white)
-![Vault Associate](https://img.shields.io/badge/Vault-Associate-000000?style=flat-square&logo=vault&logoColor=white)
+**🔐 Security**
 
-**⚙️ CI/CD & Systems**
+[![HashiCorp Vault Associate](https://img.shields.io/badge/Vault-Associate-000000?style=flat-square&logo=vault&logoColor=white)](https://www.credly.com/badges/TODO-VAULT)
 
-![Jenkins](https://img.shields.io/badge/Jenkins-Certified_Engineer_2020-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![RHCE](https://img.shields.io/badge/RHCE-Red_Hat_Certified_Engineer-EE0000?style=flat-square&logo=redhat&logoColor=white)
-![RHCSA](https://img.shields.io/badge/RHCSA-Red_Hat_Certified_Sys_Admin-EE0000?style=flat-square&logo=redhat&logoColor=white)
+<!-- TODO: replace the TODO-VAULT link above with your real Credly verification URL -->
 
 ---
 
@@ -62,9 +85,9 @@ optimisation.
 <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker" alt="cloud and containers" />
 
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+![Karpenter](https://img.shields.io/badge/Karpenter-autoscaling-4051B5?style=flat-square)
 ![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
 ![Istio](https://img.shields.io/badge/Istio-466BB0?style=flat-square&logo=istio&logoColor=white)
-![Kyverno](https://img.shields.io/badge/Kyverno-policy_engine-3A5FCD?style=flat-square)
 
 **CI/CD & Platform Engineering**
 
@@ -80,6 +103,7 @@ optimisation.
 
 <img src="https://skillicons.dev/icons?i=grafana,prometheus" alt="observability" />
 
+![Kyverno](https://img.shields.io/badge/Kyverno-policy_engine-3A5FCD?style=flat-square)
 ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square)
 ![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=flat-square&logo=snyk&logoColor=white)
 ![Gitleaks](https://img.shields.io/badge/Gitleaks-secret_scanning-orange?style=flat-square)
@@ -89,12 +113,11 @@ optimisation.
 **AI-Assisted Engineering**
 
 ![Claude Code CLI](https://img.shields.io/badge/Claude_Code_CLI-D97757?style=flat-square)
-![Claude Sonnet 4.6](https://img.shields.io/badge/Claude_Sonnet_4.6-D97757?style=flat-square)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
 
 ---
 
-## 📌 Featured Project
+## 📌 Featured Work
 
 ### [kubernetes-homelabsetup](https://github.com/devopsprathamesh/kubernetes-homelabsetup)
 
@@ -108,38 +131,24 @@ with root cause and fix.
 
 🎥 Full walkthrough on [SquareKubeLab](https://www.youtube.com/@SquareKubeLab) — coming soon.
 
-<!--
-  GitHub Stats section intentionally omitted for now. Two separate public badge
-  services were tried and dropped here, in order:
-    1. github-readme-stats.vercel.app (main stats + top-langs cards) — the
-       public instance itself was down (DEPLOYMENT_PAUSED), confirmed
-       repeatedly, not transient.
-    2. streak-stats.demolab.com (streak card) — origin is healthy when hit
-       directly, but GitHub's own image proxy (camo.githubusercontent.com)
-       fails to fetch it, most likely because Cloudflare bot-protection in
-       front of that origin blocks camo's proxy requests specifically. This
-       is a known class of issue with these free community-run instances.
+### More labs & write-ups
 
-  Fix: deploy your own instance of github-readme-stats
-  (vercel.com/new/clone?repository-url=https://github.com/anuraghazra/github-readme-stats),
-  which also has a built-in streak-stats-equivalent, or self-host
-  DenverCoder1/github-readme-streak-stats separately. A self-hosted instance
-  on your own Vercel domain won't hit either failure mode above. Once
-  deployed, add cards back here, e.g.:
-
-  ## 📊 GitHub Stats
-  <div align="center">
-  <img src="https://<your-instance>.vercel.app/api?username=devopsprathamesh&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://<your-instance>.vercel.app/api/top-langs/?username=devopsprathamesh&layout=compact&hide_border=true" alt="Top Languages" height="165" />
-  </div>
--->
+| Repo | What it is |
+|---|---|
+| [kubeadm-kubespray-cilium-lab](https://github.com/devopsprathamesh/kubeadm-kubespray-cilium-lab) | A laptop-scale Kubernetes cluster deployed with Kubespray on Vagrant/VirtualBox, with Cilium, MetalLB, Istio, and a full Prometheus/Grafana/Tempo observability stack |
+| [Kyverno-Istio-Opentelementry](https://github.com/devopsprathamesh/Kyverno-Istio-Opentelementry) | A phased Kubernetes platform-engineering lab covering policy enforcement (Kyverno), service mesh (Istio), and observability (OpenTelemetry, Prometheus, Grafana, Jaeger, Loki) |
+| [floci-eks-helm-lab](https://github.com/devopsprathamesh/floci-eks-helm-lab) | A mock AWS EKS environment on your laptop — Terraform-provisioned "EKS" via floci, with Helm-deployed nginx ingress, no AWS account required |
+| [linuxcontainersthehardway](https://github.com/devopsprathamesh/linuxcontainersthehardway) | Building the four kernel mechanisms behind containers (namespaces, cgroups v2, OverlayFS, networking) from scratch inside a disposable VM |
+| [postgress-kafka-sample-app](https://github.com/devopsprathamesh/postgress-kafka-sample-app) | Change Data Capture on Kubernetes: PostgreSQL + Kafka + Debezium, streaming database writes to a live UI |
 
 ---
 
 <div align="center">
 
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/prathammore/), subscribe on
-[YouTube](https://www.youtube.com/@SquareKubeLab), or
-[devopspratham0707@gmail.com](mailto:devopspratham0707@gmail.com)
+### 📩 Let's talk about your Kubernetes, cost, or CI/CD problem
+
+Reach me on [LinkedIn](https://www.linkedin.com/in/prathammore/), subscribe on
+[YouTube](https://www.youtube.com/@SquareKubeLab), visit [squarekube.com](https://squarekube.com),
+or email **[devopspratham0707@gmail.com](mailto:devopspratham0707@gmail.com)**
 
 </div>
